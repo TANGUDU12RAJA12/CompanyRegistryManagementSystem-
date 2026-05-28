@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CurdOperationWithOnionArchitecture.DataAccessLayer/CurdOperationWithOnionArchitecture.DataAccessLayer.csproj" />
+  <Project Path="CurdOperationWithOnionArchitecture.DTO/CurdOperationWithOnionArchitecture.DTO.csproj" />
+  <Project Path="CurdOperationWithOnionArchitecture.Services/CurdOperationWithOnionArchitecture.Services.csproj" />
+  <Project Path="CurdOperationWithOnionArchitecture/CurdOperationWithOnionArchitecture.csproj" />
+</Solution>

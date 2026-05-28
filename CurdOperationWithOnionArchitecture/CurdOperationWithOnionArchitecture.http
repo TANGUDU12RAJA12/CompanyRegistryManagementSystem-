@@ -1,0 +1,6 @@
+@CurdOperationWithOnionArchitecture_HostAddress = http://localhost:5274
+
+GET {{CurdOperationWithOnionArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

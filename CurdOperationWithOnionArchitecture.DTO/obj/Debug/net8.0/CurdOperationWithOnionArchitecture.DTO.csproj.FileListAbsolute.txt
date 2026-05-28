@@ -1,0 +1,14 @@
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\bin\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.deps.json
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\bin\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.runtimeconfig.json
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\bin\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.dll
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\bin\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.pdb
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.csproj.AssemblyReference.cache
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.AssemblyInfoInputs.cache
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.AssemblyInfo.cs
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.csproj.CoreCompileInputs.cache
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.dll
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\refint\CurdOperationWithOnionArchitecture.DTO.dll
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.pdb
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\CurdOperationWithOnionArchitecture.DTO.genruntimeconfig.cache
+C:\Users\tangu\Documents\DOT_Net_Core\CurdOperationWithOnionArchitecture\CurdOperationWithOnionArchitecture.DTO\obj\Debug\net8.0\ref\CurdOperationWithOnionArchitecture.DTO.dll

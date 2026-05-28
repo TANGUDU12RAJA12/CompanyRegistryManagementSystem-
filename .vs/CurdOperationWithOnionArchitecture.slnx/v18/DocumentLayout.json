@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA22782-03A6-48FB-4AC7-9BA6CC8C9298}|CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dto\\response\\comregistryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA22782-03A6-48FB-4AC7-9BA6CC8C9298}|CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj|solutionrelative:curdoperationwithonionarchitecture.dto\\response\\comregistryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture\\controllers\\comregistrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|solutionrelative:curdoperationwithonionarchitecture\\controllers\\comregistrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A292F7-756D-55C7-8091-C3DCF8418F54}|CurdOperationWithOnionArchitecture.Services\\CurdOperationWithOnionArchitecture.Services.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.services\\comregistryservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A292F7-756D-55C7-8091-C3DCF8418F54}|CurdOperationWithOnionArchitecture.Services\\CurdOperationWithOnionArchitecture.Services.csproj|solutionrelative:curdoperationwithonionarchitecture.services\\comregistryservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture\\controllers\\tokenauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|solutionrelative:curdoperationwithonionarchitecture\\controllers\\tokenauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|solutionrelative:curdoperationwithonionarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|solutionrelative:curdoperationwithonionarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|solutionrelative:curdoperationwithonionarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{505C389B-B216-4008-5D42-973328FE527A}|CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj|solutionrelative:curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dataaccesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|solutionrelative:curdoperationwithonionarchitecture.dataaccesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dataaccesslayer\\curdoperationwithonionarchitecture.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|solutionrelative:curdoperationwithonionarchitecture.dataaccesslayer\\curdoperationwithonionarchitecture.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA22782-03A6-48FB-4AC7-9BA6CC8C9298}|CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dto\\curdoperationwithonionarchitecture.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAA22782-03A6-48FB-4AC7-9BA6CC8C9298}|CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj|solutionrelative:curdoperationwithonionarchitecture.dto\\curdoperationwithonionarchitecture.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A292F7-756D-55C7-8091-C3DCF8418F54}|CurdOperationWithOnionArchitecture.Services\\CurdOperationWithOnionArchitecture.Services.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.services\\interface\\icomregistryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A292F7-756D-55C7-8091-C3DCF8418F54}|CurdOperationWithOnionArchitecture.Services\\CurdOperationWithOnionArchitecture.Services.csproj|solutionrelative:curdoperationwithonionarchitecture.services\\interface\\icomregistryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dataaccesslayer\\model\\companyresistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|solutionrelative:curdoperationwithonionarchitecture.dataaccesslayer\\model\\companyresistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dataaccesslayer\\mapping\\companyregistrymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE3CD4-C93E-ED2B-1761-602A3E0965FF}|CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj|solutionrelative:curdoperationwithonionarchitecture.dataaccesslayer\\mapping\\companyregistrymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA22782-03A6-48FB-4AC7-9BA6CC8C9298}|CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithonionarchitecture\\curdoperationwithonionarchitecture.dto\\request\\comregistryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA22782-03A6-48FB-4AC7-9BA6CC8C9298}|CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj|solutionrelative:curdoperationwithonionarchitecture.dto\\request\\comregistryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:48:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Controllers\\TokenAuthController.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture\\Controllers\\TokenAuthController.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Controllers\\TokenAuthController.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture\\Controllers\\TokenAuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:14:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurdOperationWithOnionArchitecture",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T09:52:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\appsettings.json",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T06:23:28.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurdOperationWithOnionArchitecture.DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DataAccessLayer\\CurdOperationWithOnionArchitecture.DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T05:11:58.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurdOperationWithOnionArchitecture.DTO.csproj",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DTO\\CurdOperationWithOnionArchitecture.DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-28T05:11:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComRegistryController.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Controllers\\ComRegistryController.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture\\Controllers\\ComRegistryController.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Controllers\\ComRegistryController.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture\\Controllers\\ComRegistryController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:26:17.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture\\Program.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T16:54:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyRegistryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\Mapping\\CompanyRegistryMapping.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DataAccessLayer\\Mapping\\CompanyRegistryMapping.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\Mapping\\CompanyRegistryMapping.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DataAccessLayer\\Mapping\\CompanyRegistryMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:57:33.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DataAccessLayer\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DataAccessLayer\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:54:43.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComRegistryServises.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.Services\\ComRegistryServises.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.Services\\ComRegistryServises.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.Services\\ComRegistryServises.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.Services\\ComRegistryServises.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:10:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IComRegistryServices.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.Services\\Interface\\IComRegistryServices.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.Services\\Interface\\IComRegistryServices.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.Services\\Interface\\IComRegistryServices.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.Services\\Interface\\IComRegistryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:07:13.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyResistry.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\Model\\CompanyResistry.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DataAccessLayer\\Model\\CompanyResistry.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DataAccessLayer\\Model\\CompanyResistry.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DataAccessLayer\\Model\\CompanyResistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:05:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComRegistryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DTO\\Request\\ComRegistryRequestDTO.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DTO\\Request\\ComRegistryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DTO\\Request\\ComRegistryRequestDTO.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DTO\\Request\\ComRegistryRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:04:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComRegistryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DTO\\Response\\ComRegistryResponseDTO.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithOnionArchitecture.DTO\\Response\\ComRegistryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithOnionArchitecture\\CurdOperationWithOnionArchitecture.DTO\\Response\\ComRegistryResponseDTO.cs",
+              "RelativeToolTip": "CurdOperationWithOnionArchitecture.DTO\\Response\\ComRegistryResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:55:58.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
