@@ -4,8 +4,6 @@ Developed a .NET 8 Web API for Company Registry CRUD operations using Onion Arch
 
 
 ````md
-# Company Registry Management System
-
 ## Project Overview
 
 Company Registry Management System is a .NET 8 Web API project developed using Onion Architecture principles. The application performs CRUD (Create, Read, Update, Delete) operations for managing company registry data while following clean architecture and best coding practices.
@@ -72,7 +70,7 @@ CurdOperationWithOnionArchitecture
 ├── CurdOperationWithOnionArchitecture.DTO
 │   ├── Request DTOs
 │   ├── Response DTOs
-````
+```
 
 ---
 
@@ -239,7 +237,3 @@ Through this project, I gained practical experience in:
 # Author
 
 Developed by Raja Tangu
-
-```
-```
-
